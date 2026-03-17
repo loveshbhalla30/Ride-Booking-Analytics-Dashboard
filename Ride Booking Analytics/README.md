@@ -156,7 +156,7 @@ Ride-Booking-Analytics/
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/loveshbhalla30/Ride-Booking-Analytics-Dashboard/blob/main/Ride%20Booking%20Analytics/power%20bi/dashboard.png)
 
 The dashboard provides insights into:
 
